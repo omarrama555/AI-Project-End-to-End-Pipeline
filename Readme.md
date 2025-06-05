@@ -1,4 +1,4 @@
-# Beginner's Guide to Data Collection in Data Projects
+#  Explain  Data Collection in Data Projects
 
 Data collection is the first and most crucial step in any data analysis, data science, or AI project. It involves gathering relevant information from various sources to use as the foundation of your analysis, models, or insights. Poor data collection leads to inaccurate results, so understanding the methods and tools is key.
 
